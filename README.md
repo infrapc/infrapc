@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9"></a></p></p>
+<p align="center"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="600" height="300"  /></p>
 
 ### &nbsp;About Me :
 
@@ -13,7 +13,7 @@ I am a Java, C#, React Developer, DevOps, Satellite Design Trainee China Aerospa
 
 - 🔭 I’m working as a Intermediate Software Development Professional on Unosquare.
 - ⚡ In my free time I solve problems on Leetcode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/infrapc)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-infrapc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/infrapc)
 
 ---
 
